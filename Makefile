@@ -1,5 +1,5 @@
 CXX = clang++
-CFLAGS = -g
+CFLAGS = -g -std=c++20 -Wall -Wextra -Werror -Wpedantic
 
 .PHONY: run
 
