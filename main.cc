@@ -1,4 +1,3 @@
-#include <format>
 #include <memory>
 #include <ncurses.h>
 #include <stdexcept>
